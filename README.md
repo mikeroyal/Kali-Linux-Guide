@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/128566092-9c538e13-89c2-4207-a6ed-8912cfa74d6a.png">
   <br />
   Kali Linux Guide
 </h1>
@@ -7,6 +7,11 @@
 #### A guide on setting up your Kali Linux Desktop with all the essential Applications, Tools, and Games to make your experience with kali Linux great! This may not be perfect guide for everyone but I feel there is at least one or more perfect solutions for New and Advanced  Kali Linux users.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/128566095-253303e2-25d8-42f1-a06d-0b38ca079a1a.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -70,12 +75,11 @@
 [Rufus](https://rufus.ie/) is a small application that creates bootable USB drives, which can then be used to install or run Microsoft Windows, Linux or DOS.
 
 
-
-<h1 align="center">
- <img src="">
+<h3 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128566098-bddab15d-0d03-463e-a47a-8cbab89005cc.png">
   <br />
   Kali Linux Desktop
-</h1>
+</h3>
 
 
 ## Enable Firewall
